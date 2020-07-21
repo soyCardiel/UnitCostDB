@@ -1,0 +1,1 @@
+﻿INSERT INTO Project (Name, Description) VALUES ( 'Proyecto 1', 'Esta es la descripcion para el proyecto 1'), ( 'Proyecto 2', 'Esta es la descripcion para el proyecto 2');
